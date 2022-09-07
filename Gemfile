@@ -58,3 +58,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'pg', group: :production
+
+gem "aws-sdk-s3", require: false #追記
